@@ -232,10 +232,6 @@ const lugares = [
 {
   nombre: "Almacenes Cristo Viene",
   imagen: "https://almacenescristoviene.com/wp-content/uploads/2021/11/Logo-transparente.png",
-  ,
-{
-  nombre: "Almacenes Cristo Viene",
-  imagen: "https://picsum.photos/300/200?random=16",
   productos: [
     {nombre: "Arroz económico", precio: 35},
     {nombre: "Leche básica", precio: 70},
@@ -253,16 +249,12 @@ const lugares = [
     {nombre: "Cereal", precio: 170},
     {nombre: "Chocolate", precio: 75}
   ]
-}
 },
+
 
 {
   nombre: "Granix",
   imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdU4d2AytdaCK8CxhZxWISv4e7xJRWl0QaQ&s",
-  ,
-{
-  nombre: "Granix",
-  imagen: "https://picsum.photos/300/200?random=15",
   productos: [
     {nombre: "Arroz", precio: 42},
     {nombre: "Leche", precio: 82},
@@ -280,13 +272,13 @@ const lugares = [
     {nombre: "Cereal", precio: 205},
     {nombre: "Chocolate", precio: 95}
   ]
-}
 },
+
 
 {
   nombre: "Hermanos Rafael",
   imagen: "imagenes/h.png",
-  productos: [
+  productos:  [
   {nombre: "Arroz", precio: 38},
   {nombre: "Leche", precio: 78},
   {nombre: "Pan", precio: 58},
